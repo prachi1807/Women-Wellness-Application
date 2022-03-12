@@ -13,12 +13,6 @@ The web application is a one stop solution to learn about different medical cond
 - Backend - Flask for disease prediction
 - For styling we have used Styled Components.
 
-# Dataset used
-1) [Heart](https://www.kaggle.com/ronitf/heart-disease-uci): Heart Disease Dataset
-
-2) [Kidney](https://www.kaggle.com/mansoordaku/ckdisease): Chronic Kidney Disease Dataset
-
-
 
 ## Prerequisites
 Required to install and run the software:
