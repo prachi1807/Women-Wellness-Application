@@ -1,0 +1,49 @@
+.body{
+    margin-top:20px;
+    background-color:lightgray;
+    }
+.main{
+    padding:15px;
+    font-family:Arial,helvetica,sans-serif;
+    }
+.topbar{
+       
+        background-color:teal;
+        overflow:hidden;}
+.topbar a{
+        float:right;
+        color:whitesmoke;
+        text-align:left;
+        padding:20px 26px;
+        text-decoration:none;
+        font-size: 26px;
+        }
+.sidebar{
+            color:black;
+            background-color:rgb(196, 132, 196);
+            font: italic small-caps bold 16px/2 cursive;
+            text-align: center;
+            height:100%;
+            }
+.sidebar a{
+            margin-left:10px;
+            display:block;
+            color:white;
+            background-color:rgb(2, 2, 2);
+            padding-bottom:10px;
+            font-size:30px;
+            text-decoration:none;
+            }  
+.cardu{
+    position:relative;
+    display:flex;
+    flex-direction:column;
+}    
+.content{
+    color:black;;
+    background-color:rgb(196, 132, 196);
+    font: italic small-caps bold 16px/2 cursive;
+    height:100%;
+    text-shadow: 0em;
+    text-align: center;
+} 
