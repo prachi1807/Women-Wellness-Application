@@ -1,5 +1,5 @@
 # Women-Wellness-Application
-The web application is a one stop solution to learn about different medical conditions, a programmed disease prediction system based on entered data, and finally a translator to get the whole web app in the language one is comfortable with and hence dissolve any communication barrier. 
+The web application is a one stop solution to learn about different medical conditions, a programmed disease prediction system based on entered data. This solution will shorten the gap between the people around the world in search for good healthcare and pave a path in the journey of recovery.
 
 
 # Main Features
